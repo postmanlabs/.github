@@ -1,4 +1,3 @@
-<a href="https://www.postman.com/"><img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png" /></a><br />
 _Manage all of your APIs in Postman, with the industry's most complete API platform._
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40getpostman-orange)](https://twitter.com/getpostman)
