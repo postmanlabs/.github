@@ -14,7 +14,7 @@ Postman has always believed in open dialogue with our community; we continuously
 To get involved with our community, please make sure you are familiar with our [Code of Conduct](https://www.postman.com/legal/community-code-of-conduct/) and join our [community forum](https://community.postman.com/). You can also get breaking news about new features and activities [on Twitter](https://twitter.com/getpostman). Feel free to drop by and say hello. 
 
 ### Product roadmap
-Keep tabs on new and upcoming releases on [the product roadmap](https://github.com/postmanlabs/postman-app-support/projects/45?fullscreen=true). Track current issues and log new ones [on GitHub](https://github.com/postmanlabs/postman-app-support/issues). Also submit new feature requests [here](https://github.com/postmanlabs/postman-app-support/issues?q=is%3Aopen+is%3Aissue+label%3AFeature).
+Keep tabs on new releases on the [public release notes](https://www.postman.com/release-notes). Track current issues and log new ones [on GitHub](https://github.com/postmanlabs/postman-app-support/issues). Also submit new feature requests [here](https://github.com/postmanlabs/postman-app-support/issues?q=is%3Aopen+is%3Aissue+label%3AFeature).
 
 ### Documentation and tutorials
 Head over to our [documentation](https://learning.postman.com/), visit our [blog](https://blog.postman.com), and check out our [YouTube channel](https://www.youtube.com/c/postman) for interesting tutorials, development stories, and platform updates.
@@ -33,4 +33,3 @@ Open-Source Projects | Description |
 [Postman Collection SDK](https://github.com/postmanlabs/postman-collection) | SDK to quickly unlock the power of Postman Collections Format using JavaScript. |
 [Postman Code Generators](https://github.com/postmanlabs/postman-code-generators) | Convert Postman collections to usable code in more than 20 different programming languages. |
 [Postman Runtime](https://github.com/postmanlabs/postman-runtime) | The core of Postman that helps to execute Postman API requests, scripts, and tests. |
-[Learning Center](https://github.com/postmanlabs/postman-docs) | The Postman Learning Center has all of the resources you need to ramp up quickly and extend your skills. |
